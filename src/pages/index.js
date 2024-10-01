@@ -6,7 +6,7 @@ const IndexPage = () => {
   return (
     <main>
       <h1>Welcome to my Gatsby site!</h1>
-      <p>I'm making this by following the Gatsby Tutorial.</p>
+      <h2>Je fais ça en suivant le tuto.</h2>
     </main>
   )
 }
