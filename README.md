@@ -27,6 +27,7 @@
     npm run develop
     ```
 
+
 3.  **Open the code and start customizing!**
 
     Your site is now running at http://localhost:8000!
@@ -47,3 +48,6 @@
 Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
 
 [<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal)
+
+
+**ok**
