@@ -1,5 +1,28 @@
 .container {
+    display: flex;
+    flex-direction: column;
     margin: auto;
     max-width: 500px;
     font-family: sans-serif;
+    background-color: #8DD9E0;
+    padding:20px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+  }
+  .heading {
+    color: rgb(255, 255, 255);
+    font-size: 3rem;
+  }
+  .nav-links {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+  }
+  .nav-link-item {
+    padding-right: 2rem;
+  }
+  .nav-link-text {
+    color: black;
   }
