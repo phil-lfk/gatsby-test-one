@@ -9,6 +9,11 @@ const AboutPage = () => {
   )
 }
 
-export const Head = () => <title>A propos</title>
+export const Head = () => (
+    <>
+      <title>A propos</title>
+      <meta name="description de la page" content="Ma propre description" />
+    </>
+  )
 
 export default AboutPage
